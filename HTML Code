@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICD Mars Yard Limited Kenya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">ICD Mars Yard Limited Kenya</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Facilities</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="user-actions">
+            <a href="#" class="sign-in">Sign In</a>
+            <a href="#" class="register">Register</a>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Efficient Logistics Solutions in Kenya</h1>
+            <p>Your trusted partner for secure and reliable container depots and storage solutions.</p>
+            <div class="cta-buttons">
+                <a href="#" class="cta">Explore Facilities</a>
+                <a href="#" class="cta">Register Now</a>
+            </div>
+        </section>
+
+        <section class="facilities">
+            <!-- Interactive map integration -->
+        </section>
+
+        <section class="services">
+            <div class="service">
+                <h2>Container Storage</h2>
+                <p>Secure and reliable storage solutions for your containers.</p>
+            </div>
+            <div class="service">
+                <h2>Cargo Handling</h2>
+                <p>Efficient handling of all types of cargo.</p>
+            </div>
+            <div class="service">
+                <h2>Logistics Management</h2>
+                <p>Comprehensive logistics management services to optimize your supply chain.</p>
+            </div>
+        </section>
+
+        <section class="about">
+            <h2>About Us</h2>
+            <p>Information about the company, mission, and values.</p>
+        </section>
+
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p>ICD Mars Yard Limited Kenya, Nairobi, Kenya</p>
+            <p>Phone: +254 700 123 456</p>
+            <p>Email: contact@icdmarsyard.co.ke</p>
+        </section>
+    </main>
+
+    <footer>
+        <ul>
+            <li><a href="#">Terms and Conditions</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Cookie Statement</a></li>
+            <li><a href="#">Disclaimer</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
